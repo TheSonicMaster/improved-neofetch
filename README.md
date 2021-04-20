@@ -1,5 +1,6 @@
 # improved-neofetch
 Improve Neofetch by displaying more system information.
+![](improved-neofetch.png)
 # Installation
 - Option 1: Install with curl:
 ```
